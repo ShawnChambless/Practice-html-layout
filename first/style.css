@@ -1,0 +1,26 @@
+html {
+  height: 1024px;
+  width: 100vw; }
+
+body {
+  background-color: #d8d8d8;
+  height: 100%; }
+
+.top {
+  background-color: #444;
+  height: 200px;
+  width: 100%; }
+
+.center {
+  background-color: #efefef;
+  width: 70%;
+  height: 100%;
+  margin: 0 15%; }
+
+.footer {
+  background-color: #222;
+  position: relative;
+  height: 100px;
+  width: 70%;
+  bottom: 0px;
+  margin: 0 auto; }
